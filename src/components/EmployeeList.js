@@ -10,7 +10,10 @@ class EmployeeList extends Component {
         <Text>EmployeeList</Text>
         <Text>EmployeeList</Text>
         <Text>EmployeeList</Text>
+<<<<<<< HEAD
         <Text>Test</Text>
+=======
+>>>>>>> e3e41126c588bd970f61d834c791f5b4d70c4c26
       </View>
     );
   }
